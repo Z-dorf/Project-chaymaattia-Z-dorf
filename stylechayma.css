@@ -1,0 +1,76 @@
+
+h1{
+    color:#212836;
+    text-align: center;
+}
+
+p{
+    color:#212836;
+   
+}
+
+
+
+.image{
+    background-color:#212836;
+
+}
+
+.degrade{
+    background-image: linear-gradient(white,orange,white,orange);
+    
+}
+@media{
+
+}
+
+.icon{
+    color:#DD6319;
+    font-size: 80px;
+    justify-content: center;
+    display: flex;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+    
+    
+}
+.fleche{
+    width: 137px;
+    height: 137px;
+    border-style: solid;
+    border-width: 50px 25px 0 25px;
+    border-color: #ff7700 transparent transparent transparent;
+    content: "";
+    position: absolute;
+    top: -70px;
+    left: 0;
+    right: 0;
+
+}   
+
+.rond{ 
+
+    display: block;
+    width: 30px;
+    height: 30px;
+    background-color: #212836;
+    border-radius: 50%;
+    top: 25%;
+    left: 5%;
+}
+   
+  
+
+.glaphy{
+    color: white;
+    text-align: center;
+    top:50%;
+    font-size: 20px;
+    padding-top: 5px;
+    
+}
+.texte{
+    text-align: center;
+    justify-content: center;
+}
