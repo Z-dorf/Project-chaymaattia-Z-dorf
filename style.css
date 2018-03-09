@@ -1,0 +1,228 @@
+/* Navbar */
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar-background-color{
+    background-color: rgb(33, 40, 54);
+}
+
+.menu_flex{
+    display: flex;
+    
+    flex-direction: column;
+}
+
+.menu_flex_color{
+    background-color: rgb(33, 40, 54, 76%)
+}
+
+.menu_decoration{
+    text-decoration: none;
+    color: white;
+    list-style-type: none;
+    justify-content: flex-end;
+    display: flex;
+}
+
+a:focus, a:hover {
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+.form-control-login{
+
+}
+
+.form-control-password{
+
+}
+
+.part1-li-uppercase{
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.form-control-background-color{
+    background-color: rgb(54, 62, 77);
+    color: rgb(221, 99, 25)
+}
+
+/* Part 1 */
+
+.part_1_background_color{
+    background: linear-gradient(orange, white);
+}
+
+
+/* Part 4 */
+
+.part4_h3_uppercase{
+    text-transform: uppercase;
+}
+
+.jumbotron_transparent{
+    background-color: transparent;
+}
+
+.jumbotron_text_center{
+    text-align: center;
+}
+
+.part4_p_center{
+    text-align: center;
+}
+
+.part4_icon1{
+    display: flex;
+    justify-content: center;
+}
+
+.part4_icon2{
+    display: flex;
+    justify-content: center;
+}
+
+.icon_part4{
+    max-width: 202px;
+    max-height: 201px;
+    text-align: center;
+}
+
+.icon_part4_double_center{
+    text-align: right;
+}
+
+.icon_part4_margin_right{
+    margin-right: 60px;
+}
+
+.icon_part4_margin_left{
+    margin-left: 60px;
+}
+
+.p_part4_margin_right{
+    margin-right: 60px;
+}
+
+.p_part4_margin_left{
+    margin-left: 60px;
+}
+/* Part5 */
+
+.part5{
+    background-color: rgb(33, 40, 54);
+}
+
+.part5_h3{
+    color: #EDEEEE;
+}
+
+.part5_h3_uppercase{
+    text-transform: uppercase;
+}
+
+
+.part5_h3_center{
+    text-align: center;
+}
+
+.part5_h3_size{
+    font-size: 24px;
+}
+
+.map{
+    width: 100%;
+    height: 100%;
+}
+
+.jumbotron_padding{
+    padding-bottom: 0px;
+    padding-top: 2px;
+
+}
+
+.jumbotron_margin{
+    margin-bottom: 0px;
+}
+
+.part5_google_maps{
+    max-width: 650px;
+    max-height: 250px;
+}
+
+.notes_padding{
+    padding-top:10px;
+    padding-bottom: 10px;
+}
+
+.first_name_size{
+    padding-left: 0px;
+    padding-right: 10px;
+}
+.first_name_padding{
+    padding-left:15px;
+}
+.last_name_size{
+    padding-right: 0px;
+    padding-left: 1px;
+}
+
+.last_name_padding{
+    padding-right: 15px;
+}
+
+.part_5_form_radius{
+    border-radius: 0px;
+    border: 0px;
+}
+
+.text{
+    color: red;
+}
+
+
+/* Media Quierries */
+
+
+
+
+/* Footer */
+.footer_bg_color{
+    background: linear-gradient(#705C58, #302F0F);
+}
+
+.footer_logo{
+    color: white;
+}
+
+
+.footer_menu{
+    color: white;
+}
+
+.footer_logo_uppercase{
+    text-transform: uppercase;
+} 
+
+
+.footer_logo_padding{
+    padding-left: 25px;
+}
+
+.footer_menu_uppercase{
+    text-transform: uppercase;
+}
+
+.container_part5_padding{
+    padding: 0px;
+}
+
+.footer_logo_display{
+    display: flex;
+    flex-direction: column;
+}
+
+.footer_logo_size{
+    font-size: 23px;
+}
